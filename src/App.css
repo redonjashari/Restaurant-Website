@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+    --font-display: "Julius Sans One", "sans-serif";
+    --font-menu: "La Belle Aurore", "cursive";
+    --font-smallmenu: "Laila", "serif";
+}
